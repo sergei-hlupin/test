@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "sergei",
+      "login": "sergei@mail.ru",
+      "password": "123456"
+    },
+    {
+      "name": "denis",
+      "login": "denis@mail.ru",
+      "password": "123456"
+    }
+  ]
+}
